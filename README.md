@@ -7,6 +7,7 @@ iSMSParse is a set of perl scripts that can parse your iPhone SMS database and e
 # iPhone Database Fields
 ## Table: message
 The message table contains information about each individual message
+
 Name|Type|Default|Values|Description
 -|-|-|-|-
 ROWID|INTEGER||#|Row in database
